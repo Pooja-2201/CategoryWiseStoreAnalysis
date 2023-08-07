@@ -1,88 +1,47 @@
 {
-  "Keychains & Accessories": [
-    "LETTER \"O\" BLING KEY RING"
-  ],
-  "Incense": [
-    "DRAGONS BLOOD INCENSE"
-  ],
-  "Samples": [
-    "SAMPLES"
-  ],
-  "Christmas Products": [
-    "PACK OF 12 50'S CHRISTMAS TISSUES"
-  ],
-  "Coat Racks & Hooks": [
-    "BLUE COAT RACK PARIS FASHION",
-    "TRELLIS COAT RACK"
-  ],
-  "Tableware & Dining": [
-    "BLUE TABLE RUN FLOWER",
-    "SET/6 FRUIT SALAD  PAPER PLATES",
-    "TEA BAG PLATE RED RETROSPOT",
-    "SET OF 4 FAIRY CAKE PLACEMATS",
-    "SNACK TRAY PAISLEY PARK"
-  ],
-  "Jewelry & Necklaces": [
-    "5 STRAND GLASS NECKLACE BLACK",
-    "OLD ROSE COMBO BEAD NECKLACE",
-    "PINK/WHITE GLASS DEMI CHOKER",
-    "GOLD/M.O.P PENDANT ORBIT NECKLACE"
-  ],
-  "Home Decor & Art": [
-    "NUMBER TILE COTTAGE GARDEN 4",
-    "WHITE 3 FRAME BIRDS AND TREE",
-    "WHITE HYDRANGEA ART FLOWER",
-    "IVORY WICKER HEART MEDIUM",
-    "MIRRORED WALL ART SPLODGES"
-  ],
-  "Stationery & Craft": [
-    "16 PC CUTLERY SET PANTRY DESIGN",
-    "DOORMAT AIRMAIL",
-    "RECIPE BOX BLUE SKETCHBOOK DESIGN",
-    "MEASURING TAPE BABUSHKA BLUE",
-    "GIRLS ALPHABET IRON ON PATCHES",
-    "IVORY KNITTED MUG COSY"
-  ],
-  "Bags & Purses": [
-    "SILK PURSE BABUSHKA PINK",
-    "PINK STRAWBERRY HANDBAG",
-    "TROPICAL PASSPORT COVER"
-  ],
-  "Cushions & Covers": [
-    "LA JARDIN BOTANIQUE CUSHION COVER"
-  ],
-  "Kids & Toys": [
-    "TOY TIDY SPACEBOY",
-    "PACK 3 FIRE ENGINE/CAR PATCHES"
-  ],
-  "Kitchen & Home Utility": [
-    "CAMOUFLAGE LED TORCH",
-    "PANTRY KITCHEN THERMOMETER",
-    "PANTRY 3 HOOK ROLLING PIN HANGER"
-  ],
-  "Hand Warmers & Heat Packs": [
-    "HAND WARMER UNION JACK"
-  ],
-  "Napkin & Table Accessories": [
-    "PACK OF 12 BLUE PAISLEY TISSUES",
-    "SET OF 4 NAPKIN CHARMS CUTLERY"
-  ],
-  "Mirrors & Wall Art": [
-    "FOLDING BUTTERFLY MIRROR RED",
-    "KEY FOB, GARAGE DESIGN"
-  ],
-  "Necklaces & Pendants": [
-    "RETROSPOT CANDLE LARGE"
-  ],
-  "Candles": [
-    "MULTI HEARTS STICKERS",
-    "RETROSPOT CANDLE LARGE",
-    "SET/3 ROSE CANDLE IN JEWELLED BOX"
-  ],
-  "Stickers & Labels": [
-    "S/4 CACTI CANDLES"
-  ],
-  "Wash Bags & Toiletries": [
-    "WASH BAG VINTAGE ROSE PAISLEY"
-  ]
+  "LETTER \"O\" BLING KEY RING": "Keychains & Accessories",
+  "DRAGONS BLOOD INCENSE": "Incense",
+  "SAMPLES": "Samples",
+  "PACK OF 12 50'S CHRISTMAS TISSUES": "Christmas Products",
+  "BLUE COAT RACK PARIS FASHION": "Coat Racks & Hooks",
+  "TRELLIS COAT RACK": "Coat Racks & Hooks",
+  "BLUE TABLE RUN FLOWER": "Tableware & Dining",
+  "SET/6 FRUIT SALAD  PAPER PLATES": "Tableware & Dining",
+  "TEA BAG PLATE RED RETROSPOT": "Tableware & Dining",
+  "SET OF 4 FAIRY CAKE PLACEMATS": "Tableware & Dining",
+  "SNACK TRAY PAISLEY PARK": "Tableware & Dining",
+  "5 STRAND GLASS NECKLACE BLACK": "Jewelry & Necklaces",
+  "OLD ROSE COMBO BEAD NECKLACE": "Jewelry & Necklaces",
+  "PINK/WHITE GLASS DEMI CHOKER": "Jewelry & Necklaces",
+  "GOLD/M.O.P PENDANT ORBIT NECKLACE": "Jewelry & Necklaces",
+  "NUMBER TILE COTTAGE GARDEN 4": "Home Decor & Art",
+  "WHITE 3 FRAME BIRDS AND TREE": "Home Decor & Art",
+  "WHITE HYDRANGEA ART FLOWER": "Home Decor & Art",
+  "IVORY WICKER HEART MEDIUM": "Home Decor & Art",
+  "MIRRORED WALL ART SPLODGES": "Home Decor & Art",
+  "16 PC CUTLERY SET PANTRY DESIGN": "Stationery & Craft",
+  "DOORMAT AIRMAIL": "Stationery & Craft",
+  "RECIPE BOX BLUE SKETCHBOOK DESIGN": "Stationery & Craft",
+  "MEASURING TAPE BABUSHKA BLUE": "Stationery & Craft",
+  "GIRLS ALPHABET IRON ON PATCHES": "Stationery & Craft",
+  "IVORY KNITTED MUG COSY": "Stationery & Craft",
+  "SILK PURSE BABUSHKA PINK": "Bags & Purses",
+  "PINK STRAWBERRY HANDBAG": "Bags & Purses",
+  "TROPICAL PASSPORT COVER": "Bags & Purses",
+  "LA JARDIN BOTANIQUE CUSHION COVER": "Cushions & Covers",
+  "TOY TIDY SPACEBOY": "Kids & Toys",
+  "PACK 3 FIRE ENGINE/CAR PATCHES": "Kids & Toys",
+  "CAMOUFLAGE LED TORCH": "Kitchen & Home Utility",
+  "PANTRY KITCHEN THERMOMETER": "Kitchen & Home Utility",
+  "PANTRY 3 HOOK ROLLING PIN HANGER": "Kitchen & Home Utility",
+  "HAND WARMER UNION JACK": "Hand Warmers & Heat Packs",
+  "PACK OF 12 BLUE PAISLEY TISSUES": "Napkin & Table Accessories",
+  "SET OF 4 NAPKIN CHARMS CUTLERY": "Napkin & Table Accessories",
+  "FOLDING BUTTERFLY MIRROR RED": "Mirrors & Wall Art",
+  "KEY FOB, GARAGE DESIGN": "Mirrors & Wall Art",
+  "RETROSPOT CANDLE LARGE": "Necklaces & Pendants",
+  "MULTI HEARTS STICKERS": "Candles",
+  "SET/3 ROSE CANDLE IN JEWELLED BOX": "Candles",
+  "S/4 CACTI CANDLES": "Stickers & Labels",
+  "WASH BAG VINTAGE ROSE PAISLEY": "Wash Bags & Toiletries"
 }

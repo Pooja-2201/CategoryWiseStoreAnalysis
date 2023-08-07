@@ -1,67 +1,49 @@
 {
-  "Journals": [
-    "GREEN FERN JOURNAL"
-  ],
-  "Mugs": [
-    "PINK/GREEN FLOWER DESIGN BIG MUG",
-    "GREEN/BLUE FLOWER DESIGN BIG MUG"
-  ],
-  "Kitchen & Dining": [
-    "JUNGLE POPSICLES ICE LOLLY HOLDERS",
-    "BAG 500g SWIRLY MARBLES",
-    "SET OF 4 NAPKIN CHARMS CROWNS",
-    "RED RETROSPOT BIG BOWL",
-    "CAKE PLATE LOVEBIRD PINK",
-    "KENSINGTON COFFEE SET"
-  ],
-  "Home Decor": [
-    "SET OF 3 MINI HANGING PORTRAITS",
-    "FLORAL PINK MONSTER",
-    "GEMSTONE CHANDELIER T-LIGHT HOLDER",
-    "VINTAGE ZINC WATERING CAN",
-    "CREAM WALL PLANTER HEART SHAPED",
-    "RECTANGULAR SHAPED MIRROR",
-    "GEORGIAN TRINKET BOX",
-    "MIDNIGHT BLUE COPPER FLOWER NECKLAC",
-    "WATERING CAN SINGLE HOOK PISTACHIO",
-    "LIGHTHOUSE PRINTED METAL SIGN",
-    "VINTAGE JINGLE BELLS WREATH"
-  ],
-  "Jewelry": [
-    "NEW BAROQUE B'FLY NECKLACE GREEN",
-    "MONTANA DIAMOND CLUSTER EARRINGS",
-    "TINY CRYSTAL BRACELET RED"
-  ],
-  "Easter Products": [
-    "2 PICTURE BOOK EGGS EASTER CHICKS",
-    "GREEN EASTER EGG HUNT START POST",
-    "EGG CUP HENRIETTA HEN CREAM",
-    "BAKING MOULD EASTER EGG WHITE CHOC"
-  ],
-  "Gifts & Accessories": [
-    "re dotcom quick fix.",
-    "CANDY SPOT EGG WARMER HARE",
-    "FELTCRAFT GIRL AMELIE KIT",
-    "METAL SIGN HIS DINNER IS SERVED",
-    "LILY BROOCH OLIVE COLOUR",
-    "S/4 GROOVY CAT MAGNETS",
-    "LUNCH BOX I LOVE LONDON",
-    "THE KING GIFT BAG",
-    "Dotcomgiftshop Gift Voucher £30.00",
-    "HAND WARMER BIRD DESIGN",
-    "Dotcomgiftshop Gift Voucher £40.00"
-  ],
-  "Craft & DIY Supplies": [
-    "WOODEN ROUNDERS GARDEN SET",
-    "SET OF 6 SOLDIER SKITTLES",
-    "SET OF 6 RIBBONS COUNTRY STYLE"
-  ],
-  "Home & Living": [
-    "INCENSE BAZAAR PEACH",
-    "GLASS APOTHECARY BOTTLE TONIC",
-    "POLYESTER FILLER PAD 60x40cm",
-    "HERB MARKER PARSLEY",
-    "FELT TOADSTOOL  SMALL",
-    "36 PENCILS TUBE RED RETROSPOT"
-  ]
+  "GREEN FERN JOURNAL": "Journals",
+  "PINK/GREEN FLOWER DESIGN BIG MUG": "Mugs",
+  "GREEN/BLUE FLOWER DESIGN BIG MUG": "Mugs",
+  "JUNGLE POPSICLES ICE LOLLY HOLDERS": "Kitchen & Dining",
+  "BAG 500g SWIRLY MARBLES": "Kitchen & Dining",
+  "SET OF 4 NAPKIN CHARMS CROWNS": "Kitchen & Dining",
+  "RED RETROSPOT BIG BOWL": "Kitchen & Dining",
+  "CAKE PLATE LOVEBIRD PINK": "Kitchen & Dining",
+  "KENSINGTON COFFEE SET": "Kitchen & Dining",
+  "SET OF 3 MINI HANGING PORTRAITS": "Home Decor",
+  "FLORAL PINK MONSTER": "Home Decor",
+  "GEMSTONE CHANDELIER T-LIGHT HOLDER": "Home Decor",
+  "VINTAGE ZINC WATERING CAN": "Home Decor",
+  "CREAM WALL PLANTER HEART SHAPED": "Home Decor",
+  "RECTANGULAR SHAPED MIRROR": "Home Decor",
+  "GEORGIAN TRINKET BOX": "Home Decor",
+  "MIDNIGHT BLUE COPPER FLOWER NECKLAC": "Home Decor",
+  "WATERING CAN SINGLE HOOK PISTACHIO": "Home Decor",
+  "LIGHTHOUSE PRINTED METAL SIGN": "Home Decor",
+  "VINTAGE JINGLE BELLS WREATH": "Home Decor",
+  "NEW BAROQUE B'FLY NECKLACE GREEN": "Jewelry",
+  "MONTANA DIAMOND CLUSTER EARRINGS": "Jewelry",
+  "TINY CRYSTAL BRACELET RED": "Jewelry",
+  "2 PICTURE BOOK EGGS EASTER CHICKS": "Easter Products",
+  "GREEN EASTER EGG HUNT START POST": "Easter Products",
+  "EGG CUP HENRIETTA HEN CREAM": "Easter Products",
+  "BAKING MOULD EASTER EGG WHITE CHOC": "Easter Products",
+  "re dotcom quick fix.": "Gifts & Accessories",
+  "CANDY SPOT EGG WARMER HARE": "Gifts & Accessories",
+  "FELTCRAFT GIRL AMELIE KIT": "Gifts & Accessories",
+  "METAL SIGN HIS DINNER IS SERVED": "Gifts & Accessories",
+  "LILY BROOCH OLIVE COLOUR": "Gifts & Accessories",
+  "S/4 GROOVY CAT MAGNETS": "Gifts & Accessories",
+  "LUNCH BOX I LOVE LONDON": "Gifts & Accessories",
+  "THE KING GIFT BAG": "Gifts & Accessories",
+  "Dotcomgiftshop Gift Voucher £30.00": "Gifts & Accessories",
+  "HAND WARMER BIRD DESIGN": "Gifts & Accessories",
+  "Dotcomgiftshop Gift Voucher £40.00": "Gifts & Accessories",
+  "WOODEN ROUNDERS GARDEN SET": "Craft & DIY Supplies",
+  "SET OF 6 SOLDIER SKITTLES": "Craft & DIY Supplies",
+  "SET OF 6 RIBBONS COUNTRY STYLE": "Craft & DIY Supplies",
+  "INCENSE BAZAAR PEACH": "Home & Living",
+  "GLASS APOTHECARY BOTTLE TONIC": "Home & Living",
+  "POLYESTER FILLER PAD 60x40cm": "Home & Living",
+  "HERB MARKER PARSLEY": "Home & Living",
+  "FELT TOADSTOOL  SMALL": "Home & Living",
+  "36 PENCILS TUBE RED RETROSPOT": "Home & Living"
 }

@@ -1,125 +1,52 @@
 {
-  "Keepsake Box": [
-    "VINTAGE KEEPSAKE BOX PINK FLOWER"
-  ],
-  "Dog Bowl": [
-    "DOG BOWL VINTAGE CREAM"
-  ],
-  "Bracelet": [
-    "PEARL AND CHERRY QUARTZ BRACLET"
-  ],
-  "Christmas Decorations": [
-    "3 RAFFIA RIBBONS 50'S CHRISTMAS",
-    "GARLAND WITH HEARTS AND BELLS",
-    "BLACK CHRISTMAS TREE 120CM",
-    "FOLKART CHRISTMAS TREE T-LIGHT HOLD",
-    "TURQUOISE CHRISTMAS TREE ",
-    "CHRISTMAS RETROSPOT STAR WOOD",
-    "6 GIFT TAGS VINTAGE CHRISTMAS ",
-    "DOORMAT CHRISTMAS VILLAGE",
-    "RED RETROSPOT BUTTER DISH"
-  ],
-  "Table Clock": [
-    "WHITE SQUARE TABLE CLOCK",
-    "RED PEONY TABLE CLOCK"
-  ],
-  "Kitchen Tools": [
-    "PANTRY APPLE CORER"
-  ],
-  "Gift Boxes": [
-    "PACK OF 6 HANDBAG GIFT BOXES"
-  ],
-  "Candle Holders": [
-    "BLACK SIL'T SQU CANDLE PLATE ",
-    "PINK PILLAR CANDLE SILVER FLOCK",
-    "4 SKY BLUE DINNER CANDLES",
-    "CRYSTAL DIAMANTE EXPANDABLE RING",
-    "Crushed"
-  ],
-  "Easter Decorations": [
-    "PINK FELT EASTER RABBIT GARLAND"
-  ],
-  "Jewelry": [
-    "GREEN CRYSTAL DROP EARRINGS",
-    "SILVER/NAT SHELL NECKLACE W PENDANT",
-    "CRACKED GLAZE EARRINGS IVORY",
-    "NEW BAROQUE SMALL NECKLACE BLACK",
-    "NEW BAROQUE LARGE NECKLACE BLK/WHIT"
-  ],
-  "Soap Dish": [
-    "IVORY SWEETHEART SOAP DISH",
-    "WHITE SOAP RACK WITH 2 BOTTLES"
-  ],
-  "Money Box": [
-    "MONEY BOX CONFECTIONERY DESIGN"
-  ],
-  "Wall Art": [
-    "WALL ART CLASSIC PUDDINGS ",
-    "WALL ART DOG AND BALL ",
-    "MIRRORED WALL ART SNOWFLAKES"
-  ],
-  "Hair Accessories": [
-    "DIAMANTE HAIR GRIP PACK/2 RUBY"
-  ],
-  "Christmas Tree": [
-    "BLACK/BLUE POLKADOT UMBRELLA",
-    "UBO-LIGHT TRIOBASE PURPLE"
-  ],
-  "Stationery": [
-    "PICTURE DOMINOES",
-    "NATURAL SLATE RECTANGLE CHALKBOARD",
-    "GARDEN PATH NOTEBOOK "
-  ],
-  "Sunglasses": [
-    "FLAMES SUNGLASSES PINK LENSES"
-  ],
-  "Garden Decor": [
-    "WHITE WOOD GARDEN PLANT LADDER",
-    "LANDMARK FRAME CAMDEN TOWN "
-  ],
-  "Umbrella": [
-    "BLACK/BLUE POLKADOT UMBRELLA"
-  ],
-  "Necklace": [
-    "SILVER/NAT SHELL NECKLACE W PENDANT",
-    "NEW BAROQUE SMALL NECKLACE BLACK",
-    "NEW BAROQUE LARGE NECKLACE BLK/WHIT"
-  ],
-  "Pouffe": [
-    "ELEPHANT CARNIVAL POUFFE"
-  ],
-  "Mirrored Wall Art": [
-    "MIRRORED WALL ART SNOWFLAKES"
-  ],
-  "Napkin Rings": [
-    "SET OF 4 DIAMOND NAPKIN RINGS"
-  ],
-  "Lighting": [
-    "GOLD MINI TAPE MEASURE ",
-    "UBO-LIGHT TRIOBASE PURPLE"
-  ],
-  "Doormat": [
-    "DOORMAT CHRISTMAS VILLAGE"
-  ],
-  "Damaged Items": [
-    "wet damaged"
-  ],
-  "Paper Napkins": [
-    "SET/20 STRAWBERRY PAPER NAPKINS "
-  ],
-  "Pencil Sharpener": [
-    "POPART RECT PENCIL SHARPENER ASST"
-  ],
-  "Tree Decoration": [
-    "JINGLE BELLS TREE DECORATION"
-  ],
-  "Butter Dish": [
-    "RED RETROSPOT BUTTER DISH"
-  ],
-  "Bread Bin": [
-    "BREAD BIN DINER STYLE MINT"
-  ],
-  "Photo Frame": [
-    "LANDMARK FRAME CAMDEN TOWN "
-  ]
+  "VINTAGE KEEPSAKE BOX PINK FLOWER": "Keepsake Box",
+  "DOG BOWL VINTAGE CREAM": "Dog Bowl",
+  "PEARL AND CHERRY QUARTZ BRACLET": "Bracelet",
+  "3 RAFFIA RIBBONS 50'S CHRISTMAS": "Christmas Decorations",
+  "GARLAND WITH HEARTS AND BELLS": "Christmas Decorations",
+  "BLACK CHRISTMAS TREE 120CM": "Christmas Decorations",
+  "FOLKART CHRISTMAS TREE T-LIGHT HOLD": "Christmas Decorations",
+  "TURQUOISE CHRISTMAS TREE": "Christmas Decorations",
+  "CHRISTMAS RETROSPOT STAR WOOD": "Christmas Decorations",
+  "6 GIFT TAGS VINTAGE CHRISTMAS": "Christmas Decorations",
+  "DOORMAT CHRISTMAS VILLAGE": "Christmas Decorations",
+  "RED RETROSPOT BUTTER DISH": "Christmas Decorations",
+  "WHITE SQUARE TABLE CLOCK": "Table Clock",
+  "RED PEONY TABLE CLOCK": "Table Clock",
+  "PANTRY APPLE CORER": "Kitchen Tools",
+  "PACK OF 6 HANDBAG GIFT BOXES": "Gift Boxes",
+  "BLACK SIL'T SQU CANDLE PLATE": "Candle Holders",
+  "PINK PILLAR CANDLE SILVER FLOCK": "Candle Holders",
+  "4 SKY BLUE DINNER CANDLES": "Candle Holders",
+  "CRYSTAL DIAMANTE EXPANDABLE RING": "Candle Holders",
+  "Crushed": "Candle Holders",
+  "PINK FELT EASTER RABBIT GARLAND": "Easter Decorations",
+  "GREEN CRYSTAL DROP EARRINGS": "Jewelry",
+  "SILVER/NAT SHELL NECKLACE W PENDANT": "Jewelry",
+  "CRACKED GLAZE EARRINGS IVORY": "Jewelry",
+  "NEW BAROQUE SMALL NECKLACE BLACK": "Jewelry",
+  "NEW BAROQUE LARGE NECKLACE BLK/WHIT": "Jewelry",
+  "IVORY SWEETHEART SOAP DISH": "Soap Dish",
+  "WHITE SOAP RACK WITH 2 BOTTLES": "Soap Dish",
+  "MONEY BOX CONFECTIONERY DESIGN": "Money Box",
+  "WALL ART CLASSIC PUDDINGS": "Wall Art",
+  "WALL ART DOG AND BALL": "Wall Art",
+  "MIRRORED WALL ART SNOWFLAKES": "Wall Art",
+  "DIAMANTE HAIR GRIP PACK/2 RUBY": "Hair Accessories",
+  "BLACK/BLUE POLKADOT UMBRELLA": "Umbrella",
+  "UBO-LIGHT TRIOBASE PURPLE": "Lighting",
+  "PICTURE DOMINOES": "Stationery",
+  "NATURAL SLATE RECTANGLE CHALKBOARD": "Stationery",
+  "GARDEN PATH NOTEBOOK": "Stationery",
+  "FLAMES SUNGLASSES PINK LENSES": "Sunglasses",
+  "WHITE WOOD GARDEN PLANT LADDER": "Garden Decor",
+  "LANDMARK FRAME CAMDEN TOWN": "Photo Frame",
+  "SET OF 4 DIAMOND NAPKIN RINGS": "Napkin Rings",
+  "GOLD MINI TAPE MEASURE": "Lighting",
+  "DOORMAT CHRISTMAS VILLAGE": "Doormat",
+  "wet damaged": "Damaged Items",
+  "SET/20 STRAWBERRY PAPER NAPKINS": "Paper Napkins",
+  "POPART RECT PENCIL SHARPENER ASST": "Pencil Sharpener",
+  "JINGLE BELLS TREE DECORATION": "Tree Decoration",
+  "BREAD BIN DINER STYLE MINT": "Bread Bin"
 }
